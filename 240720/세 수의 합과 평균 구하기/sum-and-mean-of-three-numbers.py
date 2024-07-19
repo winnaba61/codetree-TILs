@@ -1,3 +1,5 @@
 a,b,c=map(int,input().split())
-print(sum(a,b,c))
-print(sum//3)
+s=a+b+c
+avg=s/3
+print(s)
+print(avg)
