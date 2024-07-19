@@ -1,1 +1,1 @@
-print("Let's do it")
+print("He says \"It's a really simple sentence\".")
