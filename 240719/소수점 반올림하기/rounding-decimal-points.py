@@ -1,2 +1,2 @@
 a=25.352
-print(a:.1f)
+print(f"{a:.1f}")
