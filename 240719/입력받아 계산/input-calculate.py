@@ -1,2 +1,2 @@
 a=int(input())
-print(sum(a,2))
+print(a+2)
