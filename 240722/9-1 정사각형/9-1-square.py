@@ -5,6 +5,6 @@ cnt = 0
 
 for i in range(n):
     for j in range(n):
-        print(arr[cnt % len(arr)] % 9, end='')
+        print(arr[cnt % len(arr)], end='')
         cnt += 1
     print()
