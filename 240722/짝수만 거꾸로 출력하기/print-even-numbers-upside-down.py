@@ -7,4 +7,4 @@ for num in nums:
         ans.append(num)
 
 while ans:
-    print(ans.pop())
+    print(ans.pop(),end=' ')
