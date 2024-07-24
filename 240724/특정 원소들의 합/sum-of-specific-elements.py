@@ -1,4 +1,4 @@
-arr = [[0] for _ in range(4)]
+arr = [[0]*4 for _ in range(4)]
 ans=0
 
 for i in range(4):
